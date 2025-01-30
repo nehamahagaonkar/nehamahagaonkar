@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nehamahagaonkar
-- 👀 I’m interested in Pyhton Programming and Statistics
+- 👀 I’m interested in Python Programming and Statistics
 - 🌱 I’m currently learning Pyhton Web Developement and Machine Learning
 - 📫 you can reach me at mahagaonkarneha11@gmail.com
 
